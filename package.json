@@ -7,5 +7,8 @@
     "author": "Microsoft",
     "scripts": {
         "start": "node index.js"
+    },
+    "dependencies": {
+        "camelcase": "^6.2.0"
     }
 }
